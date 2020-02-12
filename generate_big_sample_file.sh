@@ -1,0 +1,1 @@
+for i in `eval echo {1..$1}`;do cat bible.txt >> $2-bible.txt; done

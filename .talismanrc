@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: data/bible.txt
+  checksum: 84c1a5cfb14295628009ee8f385546de0fb0eccbf23b41dd2dd58f40dc7ab576
+  ignore_detectors: []
+scopeconfig: []
