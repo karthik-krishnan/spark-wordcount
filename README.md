@@ -38,5 +38,5 @@ Note : You can remove the sync=true parameter if you want to trigger the job and
 
 #### 6. Query for Job Status
 ```
-curl "localhost:8090/jobs/<jobid>
+curl "localhost:8090/jobs/<jobid>"
 ```
